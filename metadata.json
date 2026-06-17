@@ -1,0 +1,6 @@
+{
+  "name": "開源守護者 (OS Guardian)",
+  "description": "結合「虛擬寵物養成」與「社團貢獻積分商城」的開源社群守護遊戲。培育你的軟體貓、開源狗或終端機甲，解鎖狀態進化，還能參與社團任務賺取金幣、在期末商城兌換實體好禮，並抽取每日工程師程式運勢籤！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
